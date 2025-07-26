@@ -129,12 +129,3 @@ output "sg_id" {
 - **Module Output Patterns:** Designing clean interfaces between modules using strategic outputs
 
 This project deepened my understanding of advanced Terraform concepts and reinforced the importance of creating truly reusable infrastructure components.
-
-## 🔮 Future Improvements
-
-- **Enhanced Rule Types:** Add support for source security groups and self-referencing rules
-- **Validation Rules:** Implement variable validation to catch common configuration errors early
-- **Multiple Port Range Support:** Extend support for complex port configurations and rule priorities
-- **Documentation Generation:** Integrate terraform-docs for automatic README generation from code comments
-
----
