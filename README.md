@@ -6,9 +6,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Infrastructure as Code](https://img.shields.io/badge/IaC-Terraform-blueviolet?style=for-the-badge)
 
-<!-- Add your project GIF/screenshot here -->
-![Project Demo](https://via.placeholder.com/800x400/1a1a2e/16213e?text=AWS+Security+Group+Module)
-
 A reusable Terraform module that creates AWS Security Groups with dynamic ingress rules, following infrastructure-as-code best practices for maximum flexibility and maintainability.
 
 ## 🎯 The "Why" - Problem & Purpose
